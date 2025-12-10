@@ -15,6 +15,8 @@ We want to manipulate a lot of data, so we want to use Polars for local manipula
 
 Everything is included in a uv venv.
 
-At last, we want to build an API that allows us to get the data obtained from anywhere and an frontend application to visualize the generated data. 
+Lastly, we want to build an API that allows us to get the data obtained from anywhere and an frontend application to visualize the generated data. 
 
 The whole point of the project is to deploy a lot of different technologies and force me to work with every bit of them in order to produce a useful tool, and cool stuff to put on my resume. 
+
+It is a big project and it will take a bit of time to finish. I want to multiply my understandings of DGP and software and data engineering skills.
